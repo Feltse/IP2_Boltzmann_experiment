@@ -6,7 +6,7 @@ project:
   subtitle: "Practicumdeel"
   # description:
   # keywords: []
-  # authors: []
+  # authors: [Feltse Hoekstra, Arnoud van Niekerk]
   github: https://github.com/Contemporary-Physicslab/NP-new-style
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   jupyter:
